@@ -1,0 +1,5 @@
+{
+  "name": "Kids Quiz Adventure",
+  "description": "An interactive quiz application for children. It features an admin panel for creating, managing, and reviewing quizzes and results. Quizzes can be generated with the help of AI to make learning fun and easy.",
+  "requestFramePermissions": []
+}
